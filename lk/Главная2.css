@@ -1,0 +1,141 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 618px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  margin: 44px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 18px auto 0 248px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 9px auto 0 248px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 152px;
+  height: 145px;
+  margin: 9px auto 0 224px;
+}
+
+.u-section-1 .u-text-4 {
+  margin: -86px 316px 0 auto;
+}
+
+.u-section-1 .u-text-5 {
+  margin: 76px auto 0 248px;
+}
+
+.u-section-1 .u-text-6 {
+  margin: -28px 316px 0 auto;
+}
+
+.u-section-1 .u-text-7 {
+  font-size: 0.875rem;
+  margin: 76px 289px 60px 224px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-4 {
+    margin-top: -87px;
+    margin-right: 261px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 261px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-left: 124px;
+    margin-right: 139px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-2 {
+    margin-left: 190px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 190px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 200px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 190px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 200px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-left: 14px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-2 {
+    margin-left: 143px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 143px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 150px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 143px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 150px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-2 {
+    margin-left: 90px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 90px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 188px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 94px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 90px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 94px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 88px;
+  }
+}
